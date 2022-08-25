@@ -1,0 +1,24 @@
+C:\Users\ALUMNO\source\repos\Unidad2Cap2\LabClases1\Clases\obj\Debug\net5.0\Clases.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\Unidad2Cap2\LabClases1\Clases\obj\Debug\net5.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\source\repos\Unidad2Cap2\LabClases1\Clases\obj\Debug\net5.0\Clases.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\source\repos\Unidad2Cap2\LabClases1\Clases\obj\Debug\net5.0\Clases.AssemblyInfo.cs
+C:\Users\ALUMNO\source\repos\Unidad2Cap2\LabClases1\Clases\obj\Debug\net5.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\Unidad2Cap2\LabClases1\Clases\bin\Debug\net5.0\Clases.deps.json
+C:\Users\ALUMNO\source\repos\Unidad2Cap2\LabClases1\Clases\bin\Debug\net5.0\Clases.dll
+C:\Users\ALUMNO\source\repos\Unidad2Cap2\LabClases1\Clases\bin\Debug\net5.0\ref\Clases.dll
+C:\Users\ALUMNO\source\repos\Unidad2Cap2\LabClases1\Clases\bin\Debug\net5.0\Clases.pdb
+C:\Users\ALUMNO\source\repos\Unidad2Cap2\LabClases1\Clases\obj\Debug\net5.0\Clases.dll
+C:\Users\ALUMNO\source\repos\Unidad2Cap2\LabClases1\Clases\obj\Debug\net5.0\ref\Clases.dll
+C:\Users\ALUMNO\source\repos\Unidad2Cap2\LabClases1\Clases\obj\Debug\net5.0\Clases.pdb
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\LabClases1-20220509T194547Z-001\LabClases1\Clases\bin\Debug\net5.0\Clases.deps.json
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\LabClases1-20220509T194547Z-001\LabClases1\Clases\bin\Debug\net5.0\Clases.dll
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\LabClases1-20220509T194547Z-001\LabClases1\Clases\bin\Debug\net5.0\ref\Clases.dll
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\LabClases1-20220509T194547Z-001\LabClases1\Clases\bin\Debug\net5.0\Clases.pdb
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\LabClases1-20220509T194547Z-001\LabClases1\Clases\obj\Debug\net5.0\Clases.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\LabClases1-20220509T194547Z-001\LabClases1\Clases\obj\Debug\net5.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\LabClases1-20220509T194547Z-001\LabClases1\Clases\obj\Debug\net5.0\Clases.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\LabClases1-20220509T194547Z-001\LabClases1\Clases\obj\Debug\net5.0\Clases.AssemblyInfo.cs
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\LabClases1-20220509T194547Z-001\LabClases1\Clases\obj\Debug\net5.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\LabClases1-20220509T194547Z-001\LabClases1\Clases\obj\Debug\net5.0\Clases.dll
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\LabClases1-20220509T194547Z-001\LabClases1\Clases\obj\Debug\net5.0\ref\Clases.dll
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\LabClases1-20220509T194547Z-001\LabClases1\Clases\obj\Debug\net5.0\Clases.pdb

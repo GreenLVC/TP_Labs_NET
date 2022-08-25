@@ -1,0 +1,7 @@
+C:\Users\valen\source\repos\LabSintaxis3\bin\Debug\LabSintaxis3.exe.config
+C:\Users\valen\source\repos\LabSintaxis3\bin\Debug\LabSintaxis3.exe
+C:\Users\valen\source\repos\LabSintaxis3\bin\Debug\LabSintaxis3.pdb
+C:\Users\valen\source\repos\LabSintaxis3\obj\Debug\LabSintaxis3.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\LabSintaxis3\obj\Debug\LabSintaxis3.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\LabSintaxis3\obj\Debug\LabSintaxis3.exe
+C:\Users\valen\source\repos\LabSintaxis3\obj\Debug\LabSintaxis3.pdb
